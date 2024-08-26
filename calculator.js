@@ -12,6 +12,6 @@ function multiply(x,y){
     return x*y;
 }
 
-function divide(x,y){
+function divide_Free(x,y){
     return x/y;
 }
