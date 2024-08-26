@@ -16,6 +16,3 @@ function divide(x,y){
     return x/y;
 }
 
-function say_hello(){
-    console.log("hello");
-}
